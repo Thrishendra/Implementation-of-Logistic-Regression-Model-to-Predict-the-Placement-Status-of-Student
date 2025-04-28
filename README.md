@@ -108,8 +108,12 @@ confusion
 from sklearn.metrics import classification_report
 classification_report=classification_report(y_test,y_pred)
 print(classification_report)
+
+print("NAME: TELLA THRISHENDRA")
+print("REG NO:212223230227")
 ```
-![image](https://github.com/user-attachments/assets/f5ca2376-c970-4b99-9f05-fdaed8d4a391)
+![Screenshot 2025-04-28 161353](https://github.com/user-attachments/assets/2115ff1b-ee2a-4157-b960-5eefa5b6d562)
+
 
 
 
